@@ -1,6 +1,7 @@
 ### Olá, eu sou o Leonardo Viana! 
 
-- Atualmente estudo ciência de dados na escola online Mentorama.
+- Estudante de Data Science.
+- Desenvolvo estudos diagnósticos e modelos preditivos, utilizando técnicas estatísticas, aprendizado de máquina, análise de dados e outras ferramentas com o objetivo de solucionar problemas de diferentes áreas de negócio e gerar valor para a empresa.
 
  <div>
   <a href="https://github.com/leorviana">
