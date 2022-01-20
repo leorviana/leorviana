@@ -1,6 +1,6 @@
-### Olá, eu sou o Leonardo Viana! 
+### E ai, meu nome é Leonardo Viana! 
 
-- Estudante de Data Science.
+- Data Scientist Júnior.
 - Desenvolvo estudos diagnósticos e modelos preditivos, utilizando técnicas estatísticas, aprendizado de máquina, análise de dados e outras ferramentas com o objetivo de solucionar problemas de diferentes áreas de negócio e gerar valor para a empresa.
 - Veja meus projetos em: https://github.com/leorviana?tab=repositories
  <div>
