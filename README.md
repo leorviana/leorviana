@@ -1,4 +1,4 @@
-### E ai, meu nome é Leonardo Viana! 
+### Leonardo Viana 
 
 - Data Scientist Júnior.
 - Desenvolvo estudos diagnósticos e modelos preditivos, utilizando técnicas estatísticas, aprendizado de máquina, análise de dados e outras ferramentas com o objetivo de solucionar problemas de diferentes áreas de negócio e gerar valor para a empresa.
