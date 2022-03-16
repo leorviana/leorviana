@@ -1,8 +1,7 @@
-### Quem sou eu? 
+### Who am I? 
 
-- Data Scientist Júnior.
-- Desenvolvo estudos diagnósticos e modelos preditivos, utilizando técnicas estatísticas, aprendizado de máquina, análise de dados e outras ferramentas com o objetivo de solucionar problemas de diferentes áreas de negócio e gerar valor para a empresa.
-- Veja meus projetos em: https://github.com/leorviana?tab=repositories
+- Junior Data Scientist.
+- I develop diagnostic studies and predictive models, using statistical techniques, machine learning, data analysis and other tools in order to solve problems in different business areas and generate value for the company.
  <div>
   <a href="https://github.com/leorviana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
